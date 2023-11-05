@@ -1,0 +1,52 @@
+body {
+    font-family:"Lucida Handwriting","Courier New",'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+    color:black
+    margin:0 ;
+    padding: 0;
+    background: #261E1C
+    color: #FAFAFA
+
+}
+header {
+    background: C98FB4;
+    
+}
+body{
+    background: pink;
+    background-image: url("https://img.freepik.com/free-vector/spring-floral-watercolor-background-vector-green-with-leaf-illustration_53876-126350.jpg?w=996&t=st=1695809166~exp=1695809766~hmac=5d66daec047eb884002c31f3ca48f29ed162559e2a8d851e8b18ae246febb83f");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    
+}
+footer{
+    background: rgb(235, 241, 243);
+    height: 50px;
+    text-align: center;
+    padding: 15px;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  nav li {
+    display: inline;
+    padding: 20px;
+  }
+  nav a {
+    color: 105F17;
+  }
+  article,
+  aside{
+    display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+.heading{
+   
+}
